@@ -1,0 +1,8 @@
+/home/harsh/Robotics/mcpp_hw/hw2/homework_2/task_1/build/CMakeFiles/random_gen.dir
+/home/harsh/Robotics/mcpp_hw/hw2/homework_2/task_1/build/CMakeFiles/task_1.dir
+/home/harsh/Robotics/mcpp_hw/hw2/homework_2/task_1/build/CMakeFiles/edit_cache.dir
+/home/harsh/Robotics/mcpp_hw/hw2/homework_2/task_1/build/CMakeFiles/rebuild_cache.dir
+/home/harsh/Robotics/mcpp_hw/hw2/homework_2/task_1/build/CMakeFiles/list_install_components.dir
+/home/harsh/Robotics/mcpp_hw/hw2/homework_2/task_1/build/CMakeFiles/install.dir
+/home/harsh/Robotics/mcpp_hw/hw2/homework_2/task_1/build/CMakeFiles/install/local.dir
+/home/harsh/Robotics/mcpp_hw/hw2/homework_2/task_1/build/CMakeFiles/install/strip.dir

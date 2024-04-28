@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wall CMakeFiles/task_1.dir/src/main.cpp.o -o /home/harsh/Robotics/mcpp_hw/hw2/homework_2/task_1/bin/task_1  /home/harsh/Robotics/mcpp_hw/hw2/homework_2/task_1/results/lib/librandom_gen.a 

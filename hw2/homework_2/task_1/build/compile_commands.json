@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/harsh/Robotics/mcpp_hw/hw2/homework_2/task_1/build",
+  "command": "/usr/bin/c++  -I/home/harsh/Robotics/mcpp_hw/hw2/homework_2/task_1/include -Wall -std=gnu++17 -o CMakeFiles/random_gen.dir/src/random_gen.cpp.o -c /home/harsh/Robotics/mcpp_hw/hw2/homework_2/task_1/src/random_gen.cpp",
+  "file": "/home/harsh/Robotics/mcpp_hw/hw2/homework_2/task_1/src/random_gen.cpp"
+},
+{
+  "directory": "/home/harsh/Robotics/mcpp_hw/hw2/homework_2/task_1/build",
+  "command": "/usr/bin/c++  -I/home/harsh/Robotics/mcpp_hw/hw2/homework_2/task_1/include -Wall -std=gnu++17 -o CMakeFiles/task_1.dir/src/main.cpp.o -c /home/harsh/Robotics/mcpp_hw/hw2/homework_2/task_1/src/main.cpp",
+  "file": "/home/harsh/Robotics/mcpp_hw/hw2/homework_2/task_1/src/main.cpp"
+}
+]
